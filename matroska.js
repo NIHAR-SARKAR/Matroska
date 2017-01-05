@@ -1,5 +1,5 @@
-/*! matroska beta 0.1 | (c)2016 Nihar | niharsarkar.tk/matroska/
-// n2rsoln@gmail.com
+/*! matroska beta 0.2 | (c)2016 Nihar | niharsarkar.in/matroska/
+// niharsarkar001@gmail.com
 */
 
 $(function(){
