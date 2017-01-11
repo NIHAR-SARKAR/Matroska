@@ -1,4 +1,4 @@
-/*! matroska beta 0.2 | (c)2016 Nihar | niharsarkar.in/matroska/
+/*! matroska beta 0.2.1 | (c)2016 Nihar | niharsarkar.in/en/matroska/
 // niharsarkar001@gmail.com
 */
 
@@ -71,7 +71,7 @@ function expcheck(id){
     else{$('valid[for="'+id+'"][type="expression"]').text("");}
 }
     
-    /*numbers*/if($.trim($('valid[for="'+id+'"][type="expression"]').attr('mode'))=='num' && $(this).val()!=''){
+    /*numbers*/else if($.trim($('valid[for="'+id+'"][type="expression"]').attr('mode'))=='num' && $(this).val()!=''){
     var xstr=/[0-9\s]+/;var str=$(this).val();
     var ck=xstr.exec(str);
     if(!ck || ck[0]!=str){
