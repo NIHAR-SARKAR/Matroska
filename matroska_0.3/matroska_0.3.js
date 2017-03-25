@@ -1,4 +1,4 @@
-/*! matroska beta 0.3 | (c)2017 Nihar | niharsarkar.in/en/matroska/ | 1st jan 2017
+/*! matroska beta 0.3 | (c)2017 Nihar Sarkar | niharsarkar.in/en/matroska/ | 1st jan 2017
 // niharsarkar001@gmail.com
 */
 
