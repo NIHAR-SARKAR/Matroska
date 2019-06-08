@@ -1,5 +1,5 @@
 # Matroska
-
+[![Build Status](https://travis-ci.com/NIHAR-SARKAR/Matroska.svg?branch=master)](https://travis-ci.com/NIHAR-SARKAR/Matroska)
 
 
 Matroska is a validation Cross platform tool which is using jquary for the base library . This Library validates web forms .
